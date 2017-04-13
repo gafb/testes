@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Pearl Jam",
+    "cover": "covers/pearl-jam.jpg",
+    "songs": [
+      "Lightning Bolt",
+      "Sirens",
+      "Yellow Moon",
+      "Future Days",
+      "Pendulum"
+    ]
+  },
+  {
+    "title": "Pink Floyd",
+    "cover": "covers/pink-floyd-the-wall.jpg",
+    "songs": [
+      "In the flesh?",
+      "Another brick in the wall",
+      "Mother",
+      "Comfortably numb",
+      "Stop",
+      "The trial",
+      "Outside the wall"
+    ]
+  },
+  {
+    "title": "Iron Maiden",
+    "cover": "covers/iron-maiden-fear-of-the-dark.jpg",
+    "songs": [
+      "Fear of the dark", 
+      "Chains of misery",
+      "From here to eternity",
+      "Wasting love",
+      "Fear is the key"
+    ]
+  }  
+]
